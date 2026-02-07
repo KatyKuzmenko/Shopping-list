@@ -1,4 +1,5 @@
 body {
+  font-family: 'Roboto', sans-serif;
   background-color: #3b3f45;
   margin: 0;
 }
@@ -17,9 +18,13 @@ body {
 
 .header__heading {
   margin: 0;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .header__text {
+  font-size: 16px;
+  font-weight: normal;
 }
 
 .container {
@@ -104,4 +109,5 @@ body {
 
 .footer__text {
   text-align: center;
+  font-size: 18px;
 }
